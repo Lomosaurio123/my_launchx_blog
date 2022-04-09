@@ -9,11 +9,17 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Para mi, la cultura en el desarrollo de software es: 
 
 -Respeto
+
 -Confianza
+
 -Honestidad
+
 -Transparencia
+
 -Compañerismo
+
 -Claridad
+
 -Dediación
 
 ¡Esto es muy importante para mí!
