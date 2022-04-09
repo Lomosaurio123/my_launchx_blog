@@ -11,7 +11,9 @@ Mis espectativas sobre este aprendizaje son:
 
 -Aprender con mayor profundidad que es el backend.
 
+
 -Como conectar tanto front como back para tener una aplicación full stack.
+
 
 -Obtener nuevos conocimientos sobre las herramientas que se usan el dia a dia.
 
